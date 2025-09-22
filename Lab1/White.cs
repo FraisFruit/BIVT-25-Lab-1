@@ -7,7 +7,7 @@
             bool answer = false;
 
             // code here
-            lkjgg;kdfgk;l
+        
             // end
 
             return answer;
@@ -86,3 +86,4 @@
     }
 
 }
+
